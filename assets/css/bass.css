@@ -1,0 +1,86 @@
+body .blog-details-desc ul,
+body .blog-details-desc ol {
+    margin-left: 0 !important;
+	color: ##7a7e9a !important;
+}
+
+body .blog-details-desc ol li,
+body .blog-details-desc ul li {
+    color: ##7a7e9a !important;
+}
+
+.newsletter-form2 {
+    max-width: 780px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.single-footer-widget .newsletter-form2 .input-newsletter {
+    display: block;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px dashed #209e2e !important;
+    border: none;
+    height: 45px;
+    padding-left: 25px;
+    border-radius: 50px;
+    outline: 0;
+    color: #333333;
+    font-size: 15px;
+}
+
+.single-footer-widget .newsletter-form2 button {
+    position: relative;
+    background-color: #209e2e;
+    color: #ffffff;
+    border: none;
+    height: 45px;
+    padding: 0 30px;
+    border-radius: 50px;
+    -webkit-transition: 0.6s;
+    transition: 0.6s;
+    line-height: 50px;
+    text-transform: capitalize;
+    width: 100%;
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.newsletter-form2 .input-newsletter {
+    display: inline-block;
+    width: 70%;
+    background-color: #ffffff;
+    border: none;
+    height: 70px;
+    padding-left: 25px;
+    border-radius: 5px;
+    outline: 0;
+    color: #333333;
+    border-radius: 50px;
+    border: 1px dashed #209e2e;
+}
+    
+.newsletter-form2 button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #209e2e;
+    color: #ffffff;
+    border: none;
+    height: 70px;
+    padding: 0 45px;
+    border-radius: 50px;
+    -webkit-transition: 0.6s;
+    transition: 0.6s;
+    line-height: 50px;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+@media only screen and (max-width: 767px)
+.page-title-area {
+    background-size: 100% 100% !important;
+}

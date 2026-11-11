@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticon.eot#iefix") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-tractor:before { content: "\f100"; }
+.flaticon-002-corn:before { content: "\f101"; }
+.flaticon-003-trailer:before { content: "\f102"; }
+.flaticon-004-tractor:before { content: "\f103"; }
+.flaticon-005-farm:before { content: "\f104"; }
+.flaticon-006-farmer:before { content: "\f105"; }
+.flaticon-007-farmer:before { content: "\f106"; }
+.flaticon-008-warehouse:before { content: "\f107"; }
+.flaticon-009-pig:before { content: "\f108"; }
+.flaticon-010-cow:before { content: "\f109"; }
+.flaticon-011-carrots:before { content: "\f10a"; }
+.flaticon-012-barn:before { content: "\f10b"; }
+.flaticon-013-chicken:before { content: "\f10c"; }
+.flaticon-014-windmill:before { content: "\f10d"; }
+.flaticon-015-plane:before { content: "\f10e"; }
+.flaticon-016-sheep:before { content: "\f10f"; }
+.flaticon-017-silo:before { content: "\f110"; }
+.flaticon-018-horse:before { content: "\f111"; }
+.flaticon-019-tractor:before { content: "\f112"; }
+.flaticon-020-drone:before { content: "\f113"; }
+.flaticon-021-well:before { content: "\f114"; }
+.flaticon-022-smart-farm:before { content: "\f115"; }
+.flaticon-023-eggs:before { content: "\f116"; }
+.flaticon-024-tractor:before { content: "\f117"; }
+.flaticon-025-chainsaw:before { content: "\f118"; }
+.flaticon-026-goose:before { content: "\f119"; }
+.flaticon-027-sickle:before { content: "\f11a"; }
+.flaticon-028-barn:before { content: "\f11b"; }
+.flaticon-029-spade:before { content: "\f11c"; }
+.flaticon-030-axe:before { content: "\f11d"; }
+.flaticon-031-scarecrow:before { content: "\f11e"; }
+.flaticon-032-bees:before { content: "\f11f"; }
+.flaticon-033-boundaries:before { content: "\f120"; }
+.flaticon-034-hoe:before { content: "\f121"; }
+.flaticon-035-beehive:before { content: "\f122"; }
+.flaticon-036-rake:before { content: "\f123"; }
+.flaticon-037-sprinkler:before { content: "\f124"; }
+.flaticon-038-shears:before { content: "\f125"; }
+.flaticon-039-greenhouse:before { content: "\f126"; }
+.flaticon-040-production:before { content: "\f127"; }
+.flaticon-041-crate:before { content: "\f128"; }
+.flaticon-042-planting:before { content: "\f129"; }
+.flaticon-043-hay:before { content: "\f12a"; }
+.flaticon-044-farm:before { content: "\f12b"; }
+.flaticon-045-sack:before { content: "\f12c"; }
+.flaticon-046-crops:before { content: "\f12d"; }
+.flaticon-047-wheelbarrow:before { content: "\f12e"; }
+.flaticon-048-computer:before { content: "\f12f"; }
+.flaticon-049-combine:before { content: "\f130"; }
+.flaticon-050-bucket:before { content: "\f131"; }
+.flaticon-051-digger:before { content: "\f132"; }
+.flaticon-052-weather-vane:before { content: "\f133"; }
+.flaticon-053-windmill:before { content: "\f134"; }
+.flaticon-054-truck:before { content: "\f135"; }
+.flaticon-055-sunflower:before { content: "\f136"; }
+.flaticon-056-stand:before { content: "\f137"; }
+.flaticon-057-windmill:before { content: "\f138"; }
+.flaticon-058-bean:before { content: "\f139"; }
+.flaticon-059-seed:before { content: "\f13a"; }
+.flaticon-060-crop:before { content: "\f13b"; }
+.flaticon-061-rake:before { content: "\f13c"; }
+.flaticon-062-desktop:before { content: "\f13d"; }
+.flaticon-063-hay-bale:before { content: "\f13e"; }
+.flaticon-064-watering-can:before { content: "\f13f"; }
+.flaticon-065-plant:before { content: "\f140"; }
+.flaticon-066-spreader:before { content: "\f141"; }
+.flaticon-067-carrots:before { content: "\f142"; }
+.flaticon-068-phone:before { content: "\f143"; }
+.flaticon-069-barn:before { content: "\f144"; }
+.flaticon-070-pesticide:before { content: "\f145"; }
+.flaticon-071-test-tube:before { content: "\f146"; }
+.flaticon-072-lawnmower:before { content: "\f147"; }
+.flaticon-073-chicken:before { content: "\f148"; }
+.flaticon-074-shop:before { content: "\f149"; }
+.flaticon-075-tree:before { content: "\f14a"; }
+.flaticon-076-award:before { content: "\f14b"; }
+.flaticon-077-mobile:before { content: "\f14c"; }
+.flaticon-078-tomato:before { content: "\f14d"; }
+.flaticon-079-apple:before { content: "\f14e"; }
+.flaticon-080-orange:before { content: "\f14f"; }
+.flaticon-081-tractor:before { content: "\f150"; }
+.flaticon-082-farm:before { content: "\f151"; }
+.flaticon-083-desktop:before { content: "\f152"; }
+.flaticon-084-indoor-plants:before { content: "\f153"; }
+.flaticon-085-fence:before { content: "\f154"; }
+.flaticon-086-panel:before { content: "\f155"; }
+.flaticon-087-overalls:before { content: "\f156"; }
+.flaticon-088-date:before { content: "\f157"; }
+.flaticon-089-tower:before { content: "\f158"; }
+.flaticon-090-bottle:before { content: "\f159"; }
+.flaticon-091-van:before { content: "\f15a"; }
+.flaticon-092-cheese:before { content: "\f15b"; }
+.flaticon-093-rotation:before { content: "\f15c"; }
+.flaticon-094-oven:before { content: "\f15d"; }
+.flaticon-095-hose:before { content: "\f15e"; }
+.flaticon-096-npk:before { content: "\f15f"; }
+.flaticon-097-location:before { content: "\f160"; }
+.flaticon-098-robot:before { content: "\f161"; }
+.flaticon-099-milking:before { content: "\f162"; }
+.flaticon-100-hay-bale:before { content: "\f163"; }
